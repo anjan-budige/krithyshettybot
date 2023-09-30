@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://telegra.ph/file/6a3ce275f7cd1b9006e88.jpg" height="300px" alt="krithi-shetty Logo" >
+  <img src="https://telegra.ph/file/6a3ce275f7cd1b9006e88.jpg" height="410px" alt="krithi-shetty Logo" >
 </p>
 <h1 align="center">
   <b>Krithi Shetty Bot</b>
