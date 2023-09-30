@@ -1,8 +1,6 @@
 
 <p align="center">
-  <div class="image-rounded">
-  <img src="https://telegra.ph/file/6a3ce275f7cd1b9006e88.jpg" alt="krithi-shetty Logo" >
-  </div>
+  <img src="https://telegra.ph/file/6a3ce275f7cd1b9006e88.jpg" height="500px" alt="krithi-shetty Logo" >
 </p>
 <h1 align="center">
   <b>Krithi Shetty Bot</b>
