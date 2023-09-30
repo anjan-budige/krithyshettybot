@@ -1,5 +1,8 @@
+
 <p align="center">
-  <img src="https://telegra.ph/file/70f9b5f7e15c759b4041c.jpg" alt="DQ-The-File-Donor Logo">
+  <div class="image-rounded">
+  <img src="https://telegra.ph/file/6a3ce275f7cd1b9006e88.jpg" alt="krithi-shetty Logo" >
+  </div>
 </p>
 <h1 align="center">
   <b>Krithi Shetty Bot</b>
