@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="https://telegra.ph/file/171925d184de01b3055dc.jpg" alt="DQ-The-File-Donor Logo">
+  <img src="https://telegra.ph/file/70f9b5f7e15c759b4041c.jpg" alt="DQ-The-File-Donor Logo">
 </p>
 <h1 align="center">
-  <b>DQ-The-File-Donor Bot</b>
+  <b>Krithi Shetty Bot</b>
 </h1>
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+To+DQ-The-File-Donor!;Created+by+Jᴏᴇʟ+ᠰ+TɢX!;A+simple+and+powerful+Bot!;Indexes+Files+above+2GB;A+Bot+with+double+button!;Start+message+with+pic!;And+more+features!)
@@ -53,7 +53,7 @@
 - [x] Auto Delete
 - [x] And More...
 
-<b>To know about all features, Join our <a href='https://telegram.me/DQ_The_File_Donor_Updates'>updates channel</a>.</b>
+<b>To know about all features, Join our <a href='https://telegram.me/unique_coders_x'>updates channel</a>.</b>
 
 ## Commands
 ```
@@ -146,6 +146,7 @@ python3 bot.py
 ## Credits 
 * [![EvaMaria-Devs](https://img.shields.io/static/v1?label=EvaMaria&message=devs&color=critical)](https://telegram.dog/EvaMariaDevs)
 * [![Joel-TGX](https://img.shields.io/static/v1?label=Jᴏᴇʟ+ᠰ+TɢX&message=Github&color=critical)](https://github.com/Joelkb)
+* [![MYDQBotz](https://img.shields.io/static/v1?label=MYDQBotz&message=devs&color=critical)](https://github.com/nandhunair1/MYDQBotz)
 * [![Contact](https://img.shields.io/static/v1?label=Contact+Developer&message=On+Telegram&color=critical)](https://telegram.me/creatorbeatz)
 
 ## Thanks to 
